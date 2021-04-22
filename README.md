@@ -1,4 +1,4 @@
 # Obrigado Deus
  Primeiro repositorio do curso Git e Github
 
- repositorio criado atraves das aulas on line do Prof. Gustavo Guanabara.
+ repositorio criado através das aulas on line do Prof. Gustavo Guanabara.
